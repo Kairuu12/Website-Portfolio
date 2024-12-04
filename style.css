@@ -176,7 +176,7 @@ span {
 
 .homeimg img{
     position: relative;
-    width: 32vw;
+    width: 35vw;
     border-radius: 50%;
     box-shadow: 0 0 25px var(--main-color);
     cursor: pointer;
